@@ -1,1 +1,1 @@
-# Streaming-in-Speech-to-Text
+# Streaming in Speech-to-Text
